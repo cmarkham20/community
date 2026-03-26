@@ -63,8 +63,7 @@ ALT_COLOR = """
 """
 ALT_LOGO = """
 {
-    "PHI": "https://b.fssta.com/uploads/application/mlb/team-logos/Phillies-alternate.png",
-    "DET": "https://b.fssta.com/uploads/application/mlb/team-logos/Tigers-alternate.png",
+    "NYM": "https://b.fssta.com/uploads/application/mlb/team-logos/Mets.png",
     "CIN": "https://b.fssta.com/uploads/application/mlb/team-logos/Reds-alternate.png",
     "STL": "https://b.fssta.com/uploads/application/mlb/team-logos/Cardinals-alternate.png"
 }
